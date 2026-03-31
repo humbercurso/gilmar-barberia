@@ -688,3 +688,17 @@ p {
         font-size: 1.5rem;
     }
 }
+
+/* --- WhatsApp Button --- */
+.btn-whatsapp {
+    background-color: #25D366 !important;
+    border-color: #25D366 !important;
+    color: #ffffff !important;
+}
+
+.btn-whatsapp:hover {
+    background-color: #128C7E !important;
+    border-color: #128C7E !important;
+    box-shadow: 0 0 20px rgba(37, 211, 102, 0.4) !important;
+    color: #ffffff !important;
+}
